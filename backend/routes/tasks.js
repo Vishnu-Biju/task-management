@@ -9,7 +9,6 @@ const {
   updateTask
 } = require('../controllers/taskController')
 
-const Task = require('../models/taskModel')
 
 const router = express.Router()
 
