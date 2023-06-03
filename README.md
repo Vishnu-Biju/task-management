@@ -1,11 +1,11 @@
-# task-management
+# Task-management
 
 ![Screenshot (1)](https://github.com/Vishnu-Biju/task-management/assets/117735067/bbf001df-bcb7-4502-ad07-8b797f8971ee)
 
-Task Manager
+#Task Manager
 The Task Manager is a web application that allows users to manage their tasks and track their progress. It provides a simple and intuitive interface for creating, updating, and deleting tasks. The application is built using React for the frontend and a Node.js backend with Express for handling API requests and interacting with a MongoDB database.
 
-Features
+#Features
 Task Creation: 
 Users can create new tasks by providing a title, description, and estimated time for completion.
 Task Listing:
@@ -18,7 +18,7 @@ Real-time Updates:
 After performing an update or deletion operation, the application reflects the changes in real-time, providing an up-to-date view of the tasks.
 
 
-Technologies Used
+#Technologies Used
 
 Frontend: 
 The frontend is built using React, a popular JavaScript library for building user interfaces. It provides a responsive and interactive interface for managing tasks.
@@ -39,7 +39,7 @@ Styling:
 CSS is used for styling the application, providing a clean and modern look.
 
 
-Installation and Usage
+#Installation and Usage
 To run the Task Manager locally, follow these steps:
 
 Clone the repository: git clone <repository-url>
